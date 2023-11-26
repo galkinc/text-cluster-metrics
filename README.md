@@ -14,18 +14,12 @@ Metrics are derived from well-established solutions, including those discussed b
 * SST
 * Root mean square standard deviation (RMSSTD)
 * R-squared index
-* Calinski-Harabasz score
+* Calinski-Harabasz score by sklearn.metrics
 * The Dunn Index (DI)
 * Silhouette index
 * Davies-Bouldin score
 * Xie-Beni index
 * SD validity index
-* S_Dbw
+* S_Dbw by S_Dbw.SD
 * Variance of the nearest neighbor distance (VNND)
 * Clustering Validation index based on Nearest Neighbors (CVNN)
-
-# The following third party libraries are currently used
-* sklearn.metrics
-  * Calinski-Harabasz score
-* s_dbw.SD
-  * S_Dbw
