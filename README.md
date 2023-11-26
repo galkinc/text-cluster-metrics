@@ -5,7 +5,7 @@ This repo involves a comprehensive metrics class for text clustering validation.
 The class encompasses a diverse set of clustering validation metrics to address different aspects of clustering quality.
 The motivation behind creating this library is to provide a robust toolkit for data scientists and practitioners working with clustering algorithms. Clustering validation is a critical step in ensuring the reliability of results, and this library aims to simplify and enhance that process.
 
-Metrics are derived from well-established solutions, including those discussed by Hui Xiong and Zhongmou Li in the ["Clustering Validation Measures"](https://www.amazon.com/Machine-Learning-Text-Charu-Aggarwal/dp/3319735306)https://www.amazon.com/Machine-Learning-Text-Charu-Aggarwal/dp/3319735306) section of Charu C. Aggarwal's book.
+Metrics are derived from well-established solutions, including those discussed by Hui Xiong and Zhongmou Li in the ["Clustering Validation Measures"](https://www.amazon.com/Machine-Learning-Text-Charu-Aggarwal/dp/3319735306) section of Charu C. Aggarwal's book.
 
 # List of the metrics
 * Cohesion
